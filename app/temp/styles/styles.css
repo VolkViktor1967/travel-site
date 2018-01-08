@@ -816,3 +816,10 @@ a {
       font-size: 1.875rem
   }
   }
+
+.testimonial-jane {
+   border-radius: 80px;
+   overflow: hidden;    
+   width: 160px;
+   height: 160px;
+}
